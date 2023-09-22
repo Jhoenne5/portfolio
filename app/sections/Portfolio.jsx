@@ -10,13 +10,13 @@ export const Portfolio = () => {
   return (
     <section  className=" ">
       <h2 className="text-gray-900 text-5xl py-1 ">Portfolio</h2>
-      <p className="text-md">Hello, and welcome to my portfolio! I am a recent Computer Science graduate with a burning passion for all things tech and innovation. 
-        As I embark on my professional journey, I'm thrilled to present my portfolio as a testament to my academic accomplishments, hands-on projects, 
+      <p className="text-2xl font-sans">Hello, and welcome to my portfolio! I am a recent Computer Science graduate with a burning passion for all things tech and innovation. 
+        As I embark on my professional journey, I am thrilled to present my portfolio as a testament to my academic accomplishments, hands-on projects, 
         and my commitment to shaping the digital future.</p>
         
         <h1 className="text-2xl pt-5 text-orange-600 font-serif">Note: Some of the projects are only provided with source codes. </h1>
-        <h1 className="text-2xl pt-4 font-serif">"For the JWT project, you can simply clone the repository, run 'npm install' to install the dependencies, 
-        and then use 'nodemon app' to start the program."</h1>
+        <h1 className="text-2xl pt-4 font-serif">{'"'}For the JWT project, you can simply clone the repository, run {'npm install'} to install the dependencies, 
+        and then use {'nodemon app'} to start the {'program."'}</h1>
 
         <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
           <div className="basis-1/3 flex-1 group  rounded overflow-hidden shadow-lg">
@@ -112,7 +112,7 @@ export const Portfolio = () => {
           </div>
          
             <div className="font-sans">
-              <h2 className="font-bold text-xl font-bold font-sans ">Simple complaint ticketing system</h2>
+              <h2 className="font-bold text-xl  font-sans ">Simple complaint ticketing system</h2>
             </div>
           </div>
         
