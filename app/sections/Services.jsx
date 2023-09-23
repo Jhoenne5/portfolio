@@ -8,7 +8,7 @@ export const Services = () => {
          <h2 className="text-4xl">What I can offer</h2>
          </div>
 
-         <div className="my-10 flex gap-15 py-2">
+         <div className="my-10 flex  py-2">
        
        <div>
      
@@ -17,7 +17,7 @@ export const Services = () => {
 
   <div class="rounded overflow-hidden shadow-lg basis-1/3  transform transition-transform duration-300 ">
 
- <div class="px-6 py-4 basis-1/3">
+ <div class="px-6 py-4 basis-1/3 mb-10">
    <div class="font-bold text-xl mb-2">Web Development Services</div>
    <p class="text-gray-700 text-base">
            Create responsive and visually appealing websites using HTML, CSS, and JavaScript.

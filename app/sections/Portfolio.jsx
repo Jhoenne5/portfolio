@@ -35,7 +35,7 @@ export const Portfolio = () => {
           <div className="font-sans flex justify-between">
         <div>
          <h1 className="font-bold text-xl">Internship project</h1>
-          <h2 className="text-l">wordpress project</h2>s
+          <h2 className="text-l">wordpress project</h2>
           <h2 className="text-l text-blue-400 ">Euron labs</h2>
         </div> 
       </div>
