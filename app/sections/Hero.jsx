@@ -14,10 +14,10 @@ export const Hero = () => {
 
     <h3 className="text-2xl py-2 transition-all duration-300">JavaScript developer</h3>
     <p className="text-2xl transition-all duration-300">
-      Graduated from <a className="text-blue-700" href="https://www.facebook.com/iACADEMY" target="blank">iAcademy</a> with a degree of Bachelor of Science in Computer Science Major in Software Engineering
+      Graduated from <a className="text-blue-700 hover:underline" href="https://www.facebook.com/iACADEMY" target="blank">iAcademy</a> with a degree of Bachelor of Science in Computer Science Major in Software Engineering
     </p>
     <p className="text-2xl py-2 transition-all duration-300">
-      One of the early developers of transitioning <a target="blank" className="text-blue-400" href="https://euronlabs.com/">EuronLabs</a> to WordPress
+      One of the early developers of transitioning <a target="blank" className="text-blue-400 hover:underline" href="https://euronlabs.com/">EuronLabs</a> to WordPress
     </p>
   </div>
 
