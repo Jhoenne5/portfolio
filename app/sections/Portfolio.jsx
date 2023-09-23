@@ -14,8 +14,8 @@ export const Portfolio = () => {
         As I embark on my professional journey, I am thrilled to present my portfolio as a testament to my academic accomplishments, hands-on projects, 
         and my commitment to shaping the digital future.</p>
         
-        <h1 className="text-2xl pt-5 text-orange-600 font-serif">Note: Some of the projects are only provided with source codes. </h1>
-        <h1 className="text-2xl pt-4 font-serif">{'"'}For the JWT project, you can simply clone the repository, run {'npm install'} to install the dependencies, 
+        <h1 className="text-xl pt-5 text-orange-600 font-serif">Note: Some of the projects are only provided with source codes. </h1>
+        <h1 className="text-xl pt-4 font-serif">{'"'}For the JWT project, you can simply clone the repository, run {'npm install'} to install the dependencies, 
         and then use {'nodemon app'} to start the {'program."'}</h1>
 
         <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">

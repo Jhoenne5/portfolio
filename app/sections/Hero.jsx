@@ -13,12 +13,12 @@ export const Hero = () => {
     </div>
 
     <h3 className="text-2xl py-2 transition-all duration-300">JavaScript developer</h3>
-    <p className="text-2xl transition-all duration-300">
+    <p className="text-xl transition-all duration-300 sm:text-2xl">
       Graduated from <a className="text-blue-700 hover:underline" href="https://www.facebook.com/iACADEMY" target="blank">iAcademy</a> with a degree of Bachelor of Science in Computer Science Major in Software Engineering
     </p>
-    <p className="text-2xl py-2 transition-all duration-300">
+    <h2 className="text-xl py-2 transition-all duration-300 sm:text-2xl">
       One of the early developers of transitioning <a target="blank" className="text-blue-400 hover:underline" href="https://euronlabs.com/">EuronLabs</a> to WordPress
-    </p>
+    </h2>
   </div>
 
   <div className="w-80 h-80 mt-20 mx-auto mb-5 transition-all duration-300">

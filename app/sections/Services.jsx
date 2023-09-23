@@ -8,7 +8,7 @@ export const Services = () => {
          <h2 className="text-4xl">What I can offer</h2>
          </div>
 
-         <div className="my-10 flex gap-12 py-2">
+         <div className="my-10 flex gap-15 py-2">
        
        <div>
      
