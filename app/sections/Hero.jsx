@@ -22,8 +22,9 @@ export const Hero = () => {
   </div>
 
   <div className="w-80 h-80 mt-20 mx-auto mb-5 transition-all duration-300">
-    <Image src={Me} alt="me" className="rounded-full" />
-  </div>
+    <Image src={Me} alt="me" style={{ borderRadius: '50%' }} />
+</div>
+
 </div>
 
  
